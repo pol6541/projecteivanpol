@@ -1,0 +1,9 @@
+1) Pantalla principal del joc amb opcions de Ranking, Iniciar el joc o Sortir.
+2) En cas de ranking mostrar ranking de la base de dades (Posicio, Nom Jugador, Punt.Maxima).
+3) En cas de Iniciar el joc preguntar nom dels 2 jugadors.
+4) Iniciar tap battle amb pantalla partida i contador individual.
+5) Al acabar la partida el jugador guanyador se li mostra la puntuacio obtinguda.
+6) En cas de que el jugador ja hagi entrat mes registres es mirara la puntuacio que tenia i si la nova
+   es mes gran es modificara.
+7) Al acabar la partida es mostrara el ranking.
+8) Al clicar continuar es tornara a la pantalla principal.
